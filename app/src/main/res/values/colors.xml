@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#E91E63</color>
+    <color name="purple_500">#FF000000</color>
+    <color name="purple_700">#E91E63</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#E91E63</color>
+    <color name="drawable_color">@color/black</color>
+    <color name="primaryRed">#eb4034</color>
+    <color name="toolbarExpanded">#00000000</color>
+    <color name="toolbarCollapsed">#40000000</color>
+    <color name="bottomsheetBackground">#FFFFFFFF</color>
+    <color name="divisor_background">#121212</color>
+    <color name="button_text">#FFFFFFFF</color>
+    <color name="successBackground">#0BCB64</color>
+    <color name="errorBackground">#E7494F</color>
+    <color name="alertBackground">#F4BA69</color>
+
+</resources>
